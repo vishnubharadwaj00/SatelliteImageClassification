@@ -1,0 +1,6 @@
+matplotlib==3.2.1
+streamlit==0.64.0
+requests==2.18.4
+fastai==1.0.61
+numpy==1.18.3
+Pillow==7.2.0
